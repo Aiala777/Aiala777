@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, eu sou o Arthur</h1>
 <h3 align="center">Gosto muito de desenvolver automações e dashboards de dados</h3>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Aiala777/Aiala777/blob/main/LICENCE)
+
 - 🌱 Atualmente estou aprendendo **Python e SQL**
 
 - 📝 Eu jogo e faço lives e vídeos [https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777](https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777)
