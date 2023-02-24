@@ -11,7 +11,7 @@
 
 - 📫Você me acha através do e-mail **caiala275@gmail.com**
 
-- Fui fundado por Arthur Aiala e aqui estão as minhas habilidades [https://www.linkedin.com/in/arthur-aiala-113a9a223/](https://www.linkedin.com/in/arthur-aiala-113a9a223/)
+- Fui fundado por Arthur Aiala e aqui estão as minhas habilidades [https://www.linkedin.com/in/arthur-aiala-113a9a223/](https://www.linkedin.com/in/arthur-aiala-113a9a223/) (https://aiala777.github.io/Portifolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
