@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Aiala777/Aiala777/blob/main/LICENCE)
 
-- 🌱 Atualmente estou aprendendo **Python e SQL**
+- 🌱 Atualmente estou aprendendo **Python , TypeScript (REACT), JavaScript e SQL**
 
 - 📝 Eu jogo e faço lives e vídeos [https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777](https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777)
 
