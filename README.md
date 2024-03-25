@@ -7,7 +7,7 @@
 
 - 📝 Eu jogo e faço lives e vídeos [https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777](https://www.twitch.tv/aiala777 / https://www.youtube.com/@Aiala777)
 
-- 💬 Me pergunte sobre **Python, Suporte de TI**
+- 💬 Me pergunte sobre **Python, React, TypeScript, JavaScript, HTML, CSS e Suporte de TI**
 
 - 📫Você me acha através do e-mail **caiala275@gmail.com**
 
