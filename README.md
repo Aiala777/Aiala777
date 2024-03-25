@@ -11,8 +11,8 @@
 
 - 📫Você me acha através do e-mail **caiala275@gmail.com**
 
-- Fui fundado por Arthur Aiala e aqui estão as minhas habilidades [https://www.linkedin.com/in/arthur-aiala-113a9a223/](https://www.linkedin.com/in/arthur-aiala-113a9a223/) (https://aiala777.github.io/Portifolio/)
-
+- Fui fundado por Arthur Aiala e aqui estão as minhas habilidades [https://www.linkedin.com/in/arthur-aiala-113a9a223/](https://www.linkedin.com/in/arthur-aiala-113a9a223/) (https://aiala777.github.io/SITE_portifolio/)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arthur-aiala-113a9a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-aiala-113a9a223/" height="30" width="40" /></a>
